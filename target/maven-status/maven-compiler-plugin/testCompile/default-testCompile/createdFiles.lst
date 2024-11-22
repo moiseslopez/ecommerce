@@ -1,0 +1,4 @@
+com/c7/ecommerce/application/ApplicationArchRulesTest.class
+com/c7/ecommerce/domain/DomainArchRulesTest.class
+com/c7/ecommerce/infrastructure/InfrastructureArchRulesTest.class
+com/c7/ecommerce/GeneralArchRulesTest.class
